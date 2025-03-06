@@ -1,9 +1,41 @@
 import React from 'react'
+import One from './components/One'
+import Two from './components/Two'
+import Three from './components/Three'
+import Four from './components/Four'
+import Five from './components/Five'
+import Six from './components/Six'
+import Seven from "./components/Seven"
+import Eight from './components/Eight'
+import Nine from "./components/Nine"
+import Ten from './components/Ten'
+import Eleven from "./components/Eleven"
+import Twelve from './components/Twelve'
+import Thirteen from './components/Thirteen'
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      {/* <One></One>
+      <Two></Two>
+      <Three></Three>
+      <Four></Four>
+      <Five></Five>
+      <Six></Six>
+      <Seven></Seven>
+      <Eight></Eight> */}
+      {/* <Nine></Nine> */}
+      {/* <Ten></Ten> */}
+      {/* <Eleven></Eleven> */}
+      {/* <Twelve></Twelve> */}
+      <Thirteen></Thirteen>
+    </>
   )
 }
 
 export default App
+
+
+
+
+
