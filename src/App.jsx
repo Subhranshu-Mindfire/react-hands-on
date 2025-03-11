@@ -14,6 +14,7 @@ import Twelve from './components/Twelve'
 import Thirteen from './components/Thirteen'
 import Fourteen from './components/Fourteen'
 import Fifteen from './components/Fifteen'
+import Sixteen from './components/Sixteen'
 
 const App = () => {
   return (
@@ -32,7 +33,8 @@ const App = () => {
       {/* <Twelve></Twelve> */}
       {/* <Thirteen></Thirteen> */}
       {/* <Fourteen></Fourteen> */}
-      <Fifteen></Fifteen>
+      {/* <Fifteen></Fifteen> */}
+      <Sixteen></Sixteen>
     </>
   )
 }
